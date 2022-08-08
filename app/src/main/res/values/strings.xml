@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MeterRecycler</string>
+    <string-array name="item_name">
+        <item>"Meter"</item>
+        <item>"Transformer"</item>
+        <item>"Tower"</item>
+    </string-array>
+    <string-array name="item_desc">
+        <item>"Meter: Device to measure energy consumption"</item>
+        <item>"Transformer : balance the power flow"</item>
+        <item>"Tower : holds the transmission lines"</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
